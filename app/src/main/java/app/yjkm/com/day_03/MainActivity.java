@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
         student.teachers = list;
 
         clone_0(student);
+        startActivity();
 //        setData(student);
     }
 
